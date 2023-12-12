@@ -1,0 +1,257 @@
+.lasttext{
+  margin-top: 380px;
+color: #0a0a0a;
+}
+.lasttext1{
+color: #0a0a0a;
+}
+.lasttext1{
+  margin-top: 70px;
+color: #0a0a0a;
+}
+
+.home{
+  font-size: large;
+font-weight: bold;
+color: #ddd;
+margin-top: 50%;
+}
+.navbar {
+  background-color:  rgb(17 30 56);
+  padding: 10px;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar-item {
+  margin-right: 20px;
+}
+.title{
+font-size: large;
+font-weight: bold;
+}
+.navbar-item button {
+  font-size: large;
+  color: #fff;
+  background-color: transparent;
+  border: none;
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.navbar-item button:hover {
+  background-color:  #bfc827;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #fff;
+  padding: 20px;
+  display: none;
+}
+
+.dropdown-item {
+  margin-bottom: 10px;
+}
+
+.dropdown-item button {
+  color: #222;
+  background-color: transparent;
+  border: none;
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.dropdown-item button:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+
+.text1{
+  margin-top: 700px;
+}
+
+.eregistration{
+  margin-bottom: 40%;
+}
+h1{
+  font-family: 'Roboto Slab';
+  margin-left: 150px;
+}
+h3{
+  margin-left: 450px;
+  font-family: 'Roboto Slab';
+  font-size: 50px;
+  font-weight: bolder;
+
+}
+h4{
+  text-align: center;
+  font-family: 'Roboto Slab';
+  font-size: 50px;
+  font-weight: bolder;
+
+}
+
+h2{
+  font-family: 'Montserrat';
+}
+p{
+  font-family: 'Roboto Slab';
+}
+.formgroup1 {
+  margin-top: 600px;
+  margin-bottom: 200px;
+  background-color: #edebff;
+  width: 500px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+label {
+  color: black;
+  font-family: 'Montserrat';
+  padding-left: 4px;
+  font-size: 15px;
+  font-weight: bold;
+}
+error {
+  font-size: 15px;
+  font-family: 'Montserrat';
+  color: #ed1023;
+}
+.jsregister{
+  width: 350px;
+  height: 30px;
+  font-family: 'Montserrat';
+  background-color: #edebff;
+  font-size: 15px;
+  margin-bottom: 5px;
+  border: 0;
+  border-radius: 5px;
+  padding: 2px;
+  box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.28);
+}
+
+.button {
+  cursor: pointer;
+  padding: 2px;
+  width: 160px;
+  color: #fff;
+  height: 40px;
+  background-color: #0d6efd;
+  border: 0;
+  font-weight: 400;
+  text-align: center;
+  font-size: 24px;
+  border-radius: 0.25rem;
+  margin-top: 14px;
+}
+.buttonjobs{
+  cursor: pointer;
+  padding: 2px;
+  width: 160px;
+  color: #fff;
+  height: 40px;
+  background-color: #0d6efd;
+  border: 0;
+  font-weight: 400;
+  text-align: center;
+  font-size: 24px;
+  border-radius: 0.25rem;
+  margin-top: 14px;
+  margin-left: 150px;
+}
+.button1 {
+  margin-left: 32%;
+  cursor: pointer;
+  padding: 2px;
+  width: 160px;
+  color: #fff;
+  height: 40px;
+  background-color: #0d6efd;
+  border: 0;
+  font-weight: 400;
+  text-align: center;
+  font-size: 24px;
+  border-radius: 0.25rem;
+  margin-top: 14px;
+}
+
+
+.jsform {
+  margin-top: 300px;
+  margin-bottom: 15px;
+}
+.jsform {
+  background-color: #edebff;
+  width: 500px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+select {
+  display: grid;
+  grid-template-areas: "select";
+  align-items: center;
+  position: relative;
+  min-width: 15ch;
+  max-width: 30ch;
+  border: 1px solid var(--select-border);
+  border-radius: 0.25em;
+  padding: 0.25em 0.5em;
+  font-size: 1.25rem;
+  cursor: pointer;
+  line-height: 1.1;
+  background-color: #ffffffd5;
+}
+
+.btn{
+  align-items: center;
+  height: 40px;
+  margin-left: 550px;
+  background-color: #0a0a0a;
+  color: #fefafa;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.ptext{
+margin-top: -1%;
+}
+.transparent-box {
+  background-color: #edebff; 
+  padding: 20px;
+  border-radius: 10px; 
+  height: 30px;
+  width: 490px;
+  margin: auto; 
+  margin-top: 50px; 
+}

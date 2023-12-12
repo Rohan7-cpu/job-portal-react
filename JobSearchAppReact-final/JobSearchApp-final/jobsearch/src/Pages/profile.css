@@ -1,0 +1,9 @@
+input , textarea{
+    border: 1px solid #001529 ;
+    box-shadow: none ;
+  }
+
+  .userprofile{
+    text-align: center;
+    font-weight: bold;
+  }

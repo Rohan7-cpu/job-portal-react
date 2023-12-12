@@ -1,0 +1,130 @@
+.jstext{
+  margin-top: -10px;
+
+}
+.register{
+  margin-top: 490px;
+  margin-bottom: 200px;
+display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.contain{
+  margin-top: 450px;
+  margin-bottom: 200px;
+display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+.Jobform{
+  width: 500px;
+  padding: 10px;
+  border-radius: 8px;
+}
+.jobseeker{
+  width: 100%;
+}
+
+.formgroup2 {
+  margin-top: 60%;
+  margin-bottom: 100px;
+  background-color: #edebff;
+  width: 500px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.formgroup {
+  margin-top: 70px;
+  background-color: #edebff;
+  width: 500px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.jobsformgroup{
+  background-color: #edebff;
+  width: 500px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.formgroup4 {
+  margin-top: 10%;
+  margin-left: 30%;
+  background-color: #edebff;
+  width: 500px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.formgroup {
+  margin-bottom: 15px;
+}
+
+.jsform {
+  margin-top: 300px;
+  margin-bottom: 15px;
+}
+.jsform {
+  background-color: #edebff;
+  width: 500px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.resetbutton{
+  margin-right: 350px;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.jsregister {
+  width: 90%;
+  padding: 6px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  width: 30%;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #0073e6;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.ok{
+  width: 15%;
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 41.5%;
+  background-color: #0073e6;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.error {
+  color: #ff0000;
+  font-size: 15px;
+  margin-top: 5px;
+}
